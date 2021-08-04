@@ -23,6 +23,17 @@ So what I did was:
  2. Unzip and run `chrome.exe`
  3. Navigate to `chrome://net-internals/#proxy`
 
+
+***=== Addenda ===***
+
+
+chrome://net-export/
+
+start logging... stop logging... open vieuwer. and there is your pac
+
+
+
+
   [1]: https://superuser.com/questions/346372/how-do-i-know-what-proxy-server-im-using
   [2]: https://superuser.com/questions/346372/how-do-i-know-what-proxy-server-im-using#1163035
   [3]: https://stackoverflow.com/questions/22368515/how-to-see-the-proxy-settings-on-windows#30751938
